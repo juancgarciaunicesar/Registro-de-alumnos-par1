@@ -1,0 +1,10 @@
+C:\Users\pperezp\Dropbox\Clases\2014\2do Semestre\Programación .NET\clase_2\ejercicioAlumnos\ejercicioAlumnos\bin\Debug\ejercicioAlumnos.exe
+C:\Users\pperezp\Dropbox\Clases\2014\2do Semestre\Programación .NET\clase_2\ejercicioAlumnos\ejercicioAlumnos\bin\Debug\ejercicioAlumnos.pdb
+C:\Users\pperezp\Dropbox\Clases\2014\2do Semestre\Programación .NET\clase_2\ejercicioAlumnos\ejercicioAlumnos\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\pperezp\Dropbox\Clases\2014\2do Semestre\Programación .NET\clase_2\ejercicioAlumnos\ejercicioAlumnos\obj\x86\Debug\ejercicioAlumnos.exe
+C:\Users\pperezp\Dropbox\Clases\2014\2do Semestre\Programación .NET\clase_2\ejercicioAlumnos\ejercicioAlumnos\obj\x86\Debug\ejercicioAlumnos.pdb
+C:\Users\Juanc\OneDrive\Escritorio\ejercicioAlumnos\ejercicioAlumnos\bin\Debug\ejercicioAlumnos.exe
+C:\Users\Juanc\OneDrive\Escritorio\ejercicioAlumnos\ejercicioAlumnos\bin\Debug\ejercicioAlumnos.pdb
+C:\Users\Juanc\OneDrive\Escritorio\ejercicioAlumnos\ejercicioAlumnos\obj\x86\Debug\ejercicioAlumnos.csproj.CoreCompileInputs.cache
+C:\Users\Juanc\OneDrive\Escritorio\ejercicioAlumnos\ejercicioAlumnos\obj\x86\Debug\ejercicioAlumnos.exe
+C:\Users\Juanc\OneDrive\Escritorio\ejercicioAlumnos\ejercicioAlumnos\obj\x86\Debug\ejercicioAlumnos.pdb
